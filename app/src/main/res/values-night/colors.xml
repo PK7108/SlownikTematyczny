@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tło i powierzchnie -->
+    <color name="background_main">#0D1117</color>
+    <color name="surface_card">#1A202C</color>
+    <!-- Teksty -->
+    <color name="text_primary">#F1FAEE</color>
+    <color name="text_secondary">#A8DADC</color>
+    <!-- Akcenty-->
+    <color name="accent_red">#E63946</color>
+    <color name="accent_blue">#1D3557</color>
+    <color name="card_stroke">#1D3557</color>
+</resources>
